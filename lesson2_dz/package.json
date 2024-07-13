@@ -1,0 +1,12 @@
+{
+  "name": "uniquenumbers",
+  "version": "1.0.3",
+  "description": "Функция generateUniqueNumbers() создает уникальные числа\r достаточно вписать значения в таком порядке: \r количество уникальных цифр, минимальное значение после максимальное значение.\r пример: \r > let uniqueNums = generateUniqueNumbers(5, 10, 20);\r console.log(uniqueNums);  \r Результат => 17,16,13,15,20",
+  "main": "generateUniqueNumbers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lednev Sergey",
+  "license": "ISC"
+}
